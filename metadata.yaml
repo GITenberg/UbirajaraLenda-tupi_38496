@@ -1,0 +1,30 @@
+_repo: UbirajaraLenda-tupi_38496
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38496-h/images/cover.png
+creator:
+  author:
+    agent_name: Alencar, José Martiniano de
+    aliases:
+    - De Alencar, José Martiniano
+    - Alencar, José de
+    - Alencar, Jose Martiniano de
+    birthdate: 1829
+    deathdate: 1877
+    gutenberg_agent_id: '33653'
+    url: http://www.gutenberg.org/2009/agents/33653
+description: ''
+gutenberg_issued: '2012-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38496'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: 'Ubirajara: Lenda Tupi'
+url: http://www.gutenberg.org/ebooks/38496
